@@ -4,7 +4,6 @@
 - 🚀 I love cybersecurity and reverse engineering.
 - 💻 I write in C, C#, python.
 - 🌱 learning C.
-- 📫 Contacts: [Telegram](https://t.me/M4rcus1337).
 
 ## Projects
 - [Cheat Loader](https://github.com/Marcus-InfoSec/Loader) — loader for cheats.
