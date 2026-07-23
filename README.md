@@ -10,4 +10,4 @@
 - [NAITCTF-2025](https://github.com/fredr0ck/NAITCTF-2025) — Writeups for NAITCTF.
 
 ## Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marcus-InfoSec&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Marcus-InfoSec&theme=radical)
